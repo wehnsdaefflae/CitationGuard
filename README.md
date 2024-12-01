@@ -98,13 +98,7 @@ Features:
 
 ## Installation
 
-```bash
-pip install citation-guard[all]  # Install all components
-# Or install individual components:
-pip install citation-guard-ssi   # Secure Source Infrastructure
-pip install citation-guard-msi   # Multilingual Semantic Infrastructure
-pip install citation-guard-cpi   # Citation Protocol Infrastructure
-```
+TODO
 
 ## Quick Start
 
@@ -143,7 +137,7 @@ matches = await semantic_provider.match(
 
 ## Documentation
 
-Visit [docs.citation-guard.dev](https://docs.citation-guard.dev) for:
+Visit [TODO] for:
 - Comprehensive API Reference
 - Security Best Practices
 - Integration Patterns
@@ -171,11 +165,7 @@ pytest
 
 ## Contributing
 
-We welcome contributions! Please see:
-- [Contributing Guidelines](CONTRIBUTING.md) for development practices
-- [Code of Conduct](CODE_OF_CONDUCT.md) for community guidelines
-- [Security Policy](SECURITY.md) for reporting security issues
-- [Project Roadmap](ROADMAP.md) for planned features
+TODO
 
 ## License
 
